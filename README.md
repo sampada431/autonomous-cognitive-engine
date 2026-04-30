@@ -1,16 +1,9 @@
-# 🧠 Autonomous Cognitive Engine
-
-### Deep Research & Long-Horizon Task Execution using AI Agents
-
-🚀 A fully integrated autonomous AI system capable of planning, executing, and synthesizing complex multi-step tasks.
-
----
-
-## 🔗 Live Demo
-
-👉 https://autonomous-cognitive-engine-prumecatc6hysmdsod7nqt.streamlit.app/
-
----
+Autonomous Cognitive Engine – AI Agent System  
+• Built a multi-step autonomous AI system for deep research and task execution  
+• Implemented planning → execution → synthesis pipeline using LLMs  
+• Designed modular agent architecture with task delegation and context management  
+🔗 Live: https://autonomous-cognitive-engine-prumecatc6hysmdsod7nqt.streamlit.app/  
+🔗 Code: https://github.com/sampada431/autonomous-cognitive-engine
 
 ## 🚀 Overview
 
